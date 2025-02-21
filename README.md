@@ -45,10 +45,6 @@ I am a Computer Science and Engineering student, constantly exploring new techno
 ![JUnit](https://img.shields.io/badge/JUnit-%23A23337.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### 🌐 Web Technologies  
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
 
 ---
 
