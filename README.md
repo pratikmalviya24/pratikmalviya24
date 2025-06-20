@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Pratik Malviya!  
 
-## 🚀 Passionate Java Developer | Backend Enthusiast
+## 🚀 Passionate Java Developer | Backend Enthusiast | | Tech Explorer
 
-I am a Computer Science and Engineering student, constantly exploring new technologies and improving my skills in backend development. I have hands-on experience in Java, Spring Boot, RESTful APIs, and database management.
+I'm a passionate Computer Science & Engineering student driven by curiosity and a love for building scalable backend systems. With hands-on experience in Java, Spring Boot, RESTful APIs, and MySQL, I enjoy designing efficient solutions and learning new technologies along the way.
 
 ### 📡 Contact Information
 - 🌐 **LinkedIn**: [Pratik Malviya](https://linkedin.com/in/pratik-malviya-870768266)
